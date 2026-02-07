@@ -239,19 +239,19 @@ body::before {
   transition: all var(--transition);
 }
 
-.category-tag--阅读 {
+.category-tag--书相关 {
   color: var(--seal-red);
   background: rgba(165, 12, 34, 0.05);
   border-color: rgba(165, 12, 34, 0.15);
 }
 
-.category-tag--有趣 {
+.category-tag--轻松有趣 {
   color: var(--gold);
   background: rgba(198, 166, 104, 0.08);
   border-color: rgba(198, 166, 104, 0.2);
 }
 
-.category-tag--年度回顾展望 {
+.category-tag--回顾展望 {
   color: var(--ink-light);
   background: rgba(43, 43, 43, 0.04);
   border-color: rgba(43, 43, 43, 0.12);
@@ -464,17 +464,17 @@ body::before {
   flex-shrink: 0;
 }
 
-.history-item-cat--阅读 {
+.history-item-cat--书相关 {
   color: var(--seal-red);
   background: rgba(165, 12, 34, 0.06);
 }
 
-.history-item-cat--有趣 {
+.history-item-cat--轻松有趣 {
   color: var(--gold);
   background: rgba(198, 166, 104, 0.1);
 }
 
-.history-item-cat--年度回顾展望 {
+.history-item-cat--回顾展望 {
   color: var(--ink-light);
   background: rgba(43, 43, 43, 0.05);
 }
